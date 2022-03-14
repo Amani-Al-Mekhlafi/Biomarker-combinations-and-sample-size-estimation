@@ -1,4 +1,4 @@
-source("source.R")
+source("AmanisPlots2.R")
 
 ## Libraries
 if("plotly" %in% rownames(installed.packages())){
