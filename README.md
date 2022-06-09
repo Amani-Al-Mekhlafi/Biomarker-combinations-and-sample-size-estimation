@@ -1,1 +1,1 @@
-# Biomarker-combinations-and-sample-size-estumation
+# Biomarker-combinations-and-sample-size-estimation
